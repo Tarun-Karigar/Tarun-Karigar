@@ -87,7 +87,7 @@
 <body>
     <div class="container">
         <header>
-            <img src=""Tarun_img.JPG"" alt="Tarun Karigar" class="profile-img">
+            <img src="" "" alt="Tarun_img.JPG" class="profile-img">
             <h1>Tarun Karigar</h1>
             <p>Electronics and Communication Engineering Student at AGM Rural College of Engineering and Technology, VTU</p>
             <div class="social-links">
