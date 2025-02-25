@@ -1,4 +1,4 @@
-<img src="Tarun_img.JPG" alt="Tarun img" width="100%" />
+<img src="Tarun_img.JPG" alt="Tarun img" width="100%" height=100px />
 
 # Hello everyone!, I'm TARUN KARIGAR, an Electronics and Communication Engineer with expertise in Embedded Systems, IoT, and Python Programming 👋🏼:
 🛜 My Portfolio: [Portfolio](https://linktr.ee/tarunkarigar)<br>👨🏼‍🎓 Aspiring to contribute to innovative projects in **Embedded Systems** and **IoT** <br>👨🏼‍💻 Passionate about solving real-world problems using technology <br><i>tarunkarigar@example.com</i>
