@@ -88,7 +88,7 @@
 <body>
     <div class="container">
         <header>
-            <img src=""C:\Users\TARUN\OneDrive\Desktop\Placement Docs\Tarun Pic.JPG"" alt="Tarun Karigar" class="profile-img">
+            <img src=""Tarun_img.JPG"" alt="Tarun Karigar" class="profile-img">
             <h1>Tarun Karigar</h1>
             <p>Electronics and Communication Engineering Student at AGM Rural College of Engineering and Technology, VTU</p>
             <div class="social-links">
